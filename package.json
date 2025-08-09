@@ -1,0 +1,15 @@
+{
+  "name": "google_product_scraper",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "puppeteer-real-browser": "^1.4.3"
+  }
+}
