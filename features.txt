@@ -1,0 +1,8 @@
+[x] write output to csv file. 
+[x] feature to re write the list by removing the proccessed once 
+[x] add language to search query so it would show eng search
+[x] config file optimization 
+[x] retry and delay for serach query
+[x] informative output logs 
+[x] write read me file 
+[x] deliver product 

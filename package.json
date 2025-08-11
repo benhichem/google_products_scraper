@@ -10,6 +10,8 @@
     "typescript": "^5"
   },
   "dependencies": {
+    "@types/papaparse": "^5.3.16",
+    "papaparse": "^5.5.3",
     "puppeteer-real-browser": "^1.4.3"
   }
 }
